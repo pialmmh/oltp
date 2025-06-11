@@ -1,7 +1,7 @@
 # PhotonCache Java Bundle Exporter + Gist Updater (with forced replace)
 
 $packagePath = "src/main/java/com/telcobright/rtc/photoncache"
-$outputFile = "all-classes.txt"
+$outputFile = "photoncache.txt"
 $gistId = "0d878d8d2c128a5be5e280288f49cbb2"
 
 # Remove previous output file if exists
