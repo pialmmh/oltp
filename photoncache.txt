@@ -50,7 +50,7 @@ import java.nio.file.Files;
 import java.util.Map;
 import java.util.concurrent.*;
 
-public class AccountCache {
+public class AccountCache {//test comment
     private static final Logger logger = LogManager.getLogger(AccountCache.class);
     private final AccountStorage storage;
     private final AccountDeltaQueue deltaQueue;
